@@ -7,7 +7,7 @@ Without this library:
   then you need to run output file by
     ./a.out
 With this library:
-  C program:
+ C program:
     carp filename.c
   C++ program:
     carp filename.cpp
